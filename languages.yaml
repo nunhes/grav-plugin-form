@@ -103,6 +103,44 @@ fr:
     DROPZONE_REMOVE_FILE_CONFIRMATION: "Êtes-vous sûr de vouloir supprimer ce fichier ?"
     DROPZONE_RESPONSE_ERROR: "Le serveur a répondu avec le code {{statusCode}}."
 
+gl:
+  PLUGIN_FORM:
+    NOT_VALIDATED: "Formulario non válido. Non se atopan un o máis eidos requeridos."
+    NONCE_NOT_VALIDATED: "Oops hai un problema, por favor revisa os teus datos e volve a remitir o formulario."
+    FILES: "Subir Arquivos"
+    ALLOW_MULTIPLE: "Permitir máis de un arquivo"
+    ALLOW_MULTIPLE_HELP: "Permite seleccionar máis dun arquivo para subir."
+    DESTINATION: "Destino"
+    DESTINATION_HELP: "Localización a onde deberan subirse os arquivos"
+    ACCEPT: "Tipos MIME Permitidos"
+    ACCEPT_HELP: "Unha lista de MIME Types que está permitido subir"
+    ERROR_VALIDATING_CAPTCHA: "Erro validando Captcha"
+    DATA_SUMMARY: "Este é o resume do que nos escribiu:"
+    NO_FORM_DATA: "Datos do formulario non dispoñibles"
+    RECAPTCHA: "ReCaptcha"
+    RECAPTCHA_SITE_KEY: "Site key"
+    RECAPTCHA_SITE_KEY_HELP: "Para máis info visita https://developers.google.com/recaptcha"
+    RECAPTCHA_SECRET_KEY: "Secret key"
+    RECAPTCHA_SECRET_KEY_HELP: "Para máis info visita https://developers.google.com/recaptcha"
+    GENERAL: "Xeral"
+    USE_BUILT_IN_CSS: "Usar CSS embutido"
+    FILEUPLOAD_PREVENT_SELF: 'Non pode usar "%s" fóra das páxinas.'
+    FILEUPLOAD_UNABLE_TO_UPLOAD: 'Non se poden subir arquivos %s: %s'
+    FILEUPLOAD_UNABLE_TO_MOVE: 'Non se pode mover o arquivo %s a "%s"'
+    DROPZONE_CANCEL_UPLOAD: 'Cancelar subida'
+    DROPZONE_CANCEL_UPLOAD_CONFIRMATION: 'Está seguro de que desexa cancelar este subida?'
+    DROPZONE_DEFAULT_MESSAGE: 'Soltar os arquivos aquí ou <strong>click neste area</strong>'
+    DROPZONE_FALLBACK_MESSAGE: 'O seu navegador non soporta arrastrar e soltar para a subida de arquivos.'
+    DROPZONE_FALLBACK_TEXT: 'Por favor, use o formulario de continxencia abaixo para subir os seus arquivos, como nos vellos tempos.'
+    DROPZONE_FILE_TOO_BIG: 'Arquivo demasiado grande ({{filesize}}MiB). Max tamaño de arquivo: {{maxFilesize}}MiB.'
+    DROPZONE_INVALID_FILE_TYPE: "Non pode subir arquivos deste tipo."
+    DROPZONE_MAX_FILES_EXCEEDED: "Non pode subir máis arquivos."
+    DROPZONE_REMOVE_FILE: "Rexeitar arquivo"
+    DROPZONE_REMOVE_FILE_CONFIRMATION: 'Está seguro de que quere eliminar este arquivo?'
+    DROPZONE_RESPONSE_ERROR: "O Servidor responde co código {{statusCode}}."
+    YES: "Si"
+    NO: "Non"
+
 hr:
   PLUGIN_FORM:
     NOT_VALIDATED: "Formular nije validiran. Jedan ili više traženih polja nedostaju."
